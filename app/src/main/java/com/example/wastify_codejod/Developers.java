@@ -25,12 +25,12 @@ public class Developers extends AppCompatActivity {
         }
     }
     public void utsav(View v){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/mehtautsav/"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/kaniskjai"));
         startActivity(browserIntent);
     }
 
     public void kevin(View v){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/kevin-patel45/"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/piyush-sharma-b5a2b5224"));
         startActivity(browserIntent);
     }
 

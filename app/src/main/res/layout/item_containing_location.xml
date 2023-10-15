@@ -155,12 +155,12 @@
                 android:textSize="20sp"/>
 
             <TextView
+                android:id="@+id/tvLocality"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Ahmedabad"
-                android:id="@+id/tvLocality"
+                android:text="Ghaziabad"
                 android:textColor="@color/black"
-                android:textSize="20sp"/>
+                android:textSize="20sp" />
 
         </LinearLayout>
         <LinearLayout
@@ -179,12 +179,12 @@
                 android:textSize="20sp"/>
 
             <TextView
+                android:id="@+id/tvAddress"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Chandranagar"
-                android:id="@+id/tvAddress"
+                android:text="Muradnagar"
                 android:textColor="@color/black"
-                android:textSize="20sp"/>
+                android:textSize="20sp" />
 
         </LinearLayout>
 

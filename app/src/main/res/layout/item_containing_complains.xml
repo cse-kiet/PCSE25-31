@@ -29,12 +29,12 @@
             android:textSize="20sp"/>
 
         <TextView
+            android:id="@+id/tvfirstname"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Utsav"
-            android:id="@+id/tvfirstname"
+            android:text="Kanisk"
             android:textColor="@color/black"
-            android:textSize="20sp"/>
+            android:textSize="20sp" />
 
     </LinearLayout>
 
@@ -57,7 +57,7 @@
             android:id="@+id/phoneCitizen"
             android:layout_width="wrap_content"
             android:layout_height="37dp"
-            android:text="9426508970"
+            android:text="9795159452"
             android:textColor="@color/black"
             android:textSize="20sp" />
 
@@ -79,12 +79,12 @@
             android:textSize="20sp"/>
 
         <TextView
+            android:id="@+id/tvComplain"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Waste logging in area of jamalpur"
-            android:id="@+id/tvComplain"
+            android:text="Waste logging in area of Muradnagar"
             android:textColor="@color/black"
-            android:textSize="20sp"/>
+            android:textSize="20sp" />
 
     </LinearLayout>
 

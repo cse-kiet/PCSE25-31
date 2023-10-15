@@ -88,8 +88,8 @@ public class DustbinNearbyActivity extends AppCompatActivity {
         arrayList.add(vd1);arrayList.add(vd2);arrayList.add(vd3);arrayList.add(vd4);
         arrayList.add(gd1);arrayList.add(gd2);arrayList.add(gd3);arrayList.add(gd4);
 
-        String[] place= {"Ahmedabad","Vadodara","Gandhinagar"};
-        String[] spPlace = {"Ahmedabad","Vadodara","Gandhinagar"};
+        String[] place= {"Ghaziabad","New Delhi","Muradnagar"};
+        String[] spPlace = {"Ghaziabad","New Delhi","Muradnagar"};
 
         spinner.setAdapter(new ArrayAdapter<>(DustbinNearbyActivity.this, android.R.layout.simple_spinner_dropdown_item, spPlace));
 
@@ -119,12 +119,12 @@ public class DustbinNearbyActivity extends AppCompatActivity {
     private void DisplayTrack(String ar) {
         try {
             Uri uri=null;
-            if(ar.equals("Ahmedabad")) {
-                uri = Uri.parse("https://www.google.co.in/maps/dir/HimaliyaMall/Maninagar/Bapunagar/RaspanCrossRoad");
-            }else if(ar.equals("Vadodara")) {
-                uri = Uri.parse("https://www.google.co.in/maps/dir/KubereshwarMarg/LukshmiVilasPalace/KalaGhodaCircle/SamaLake");
+            if(ar.equals("Ghaziabad")) {
+                uri = Uri.parse("https://www.google.com/maps/dir/Shaheed+Sthal+(New+Bus+Adda),+Sector+7,+Islam+Nagar+Village,+Madhopura,+Ghaziabad,+Uttar+Pradesh/KIET+GROUP+OF+INSTITUTIONS,+Muradnagar,+Uttar+Pradesh");
+            }else if(ar.equals("New Delhi")) {
+                uri = Uri.parse("");
             }else{
-                uri = Uri.parse("https://www.google.co.in/maps/dir/PDEU/DAIICT/Ch0/Samarpancircle");
+                uri = Uri.parse("https://www.google.com/maps/dir/Akshardham+Metro+Station,+Noida+Link+Road,+Ganesh+Nagar,+New+Delhi,+Delhi/Indra+Puram,+Ghaziabad,+Uttar+Pradesh");
             }
             Intent intent = new Intent(Intent.ACTION_VIEW, uri);
             intent.setPackage("com.google.android.apps.maps");

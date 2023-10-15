@@ -4,12 +4,12 @@ plugins {
 }
 
 android {
-    compileSdk 31
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.wastify_codejod"
-        minSdk 21
-        targetSdk 31
+        minSdk 24
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 
@@ -26,6 +26,7 @@ android {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+    namespace 'com.example.wastify_codejod'
 }
 
 dependencies {
