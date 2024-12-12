@@ -15,6 +15,10 @@ Explore the detailed insights and findings of our research through the presentat
 
 https://docs.google.com/presentation/d/1DTK8oodc6npzSSshlO7lUx-2v-NCjFgU/edit?usp=sharing&ouid=101651146582630464937&rtpof=true&sd=true
 
-
+# Team Details:
+1. Khushi Sachdev (2100290100087)
+2. Kanisk Jaiswal (2100290100081)
+3. Manvi Jain (2100290100093)
+4. Piyush Sharma (2100290100114)
 
 PCSE25-31
