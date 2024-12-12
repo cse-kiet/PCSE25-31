@@ -10,5 +10,11 @@ Our research paper, accepted at IST'24 (Innovations in Science & Technology 2024
 
 https://drive.google.com/drive/folders/18H-oCD1LYEIRdnJL39LRIJg3WMyWmPE7?usp=sharing
 
+# PPT
+Explore the detailed insights and findings of our research through the presentation shared. Access the presentation using the link below:
+
+https://docs.google.com/presentation/d/1DTK8oodc6npzSSshlO7lUx-2v-NCjFgU/edit?usp=sharing&ouid=101651146582630464937&rtpof=true&sd=true
+
+
 
 PCSE25-31
