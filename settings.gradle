@@ -8,3 +8,4 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Wastify-CodeJOD"
 include ':app'
+//settings
