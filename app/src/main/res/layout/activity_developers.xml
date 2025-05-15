@@ -12,7 +12,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fontFamily="@font/alegreya"
-        android:text="Wastify"
+        android:text="Reecle"
         android:textColor="#c62828"
         android:textSize="34sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -45,7 +45,7 @@
         android:onClick="utsav"
         android:text="Kanisk Jaiswal"
         android:textColor="@color/black"
-        android:textSize="18dp"
+        android:textSize="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.498"
         app:layout_constraintStart_toStartOf="parent"
@@ -60,7 +60,7 @@
         android:onClick="kevin"
         android:text="Piyush Sharma"
         android:textColor="@color/black"
-        android:textSize="18dp"
+        android:textSize="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
@@ -75,11 +75,26 @@
         android:onClick="vivek"
         android:text=" Khushi Sachdev"
         android:textColor="@color/black"
-        android:textSize="18dp"
+        android:textSize="48dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.501"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/driverName" />
+
+    <TextView
+        android:id="@+id/textView8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dp"
+        android:fontFamily="@font/alegreya"
+        android:onClick="manvi"
+        android:text=" Manvi Jain"
+        android:textColor="@color/black"
+        android:textSize="48dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.501"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView6" />
 
     <TextView
         android:id="@+id/textView7"
@@ -87,11 +102,11 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="112dp"
         android:fontFamily="@font/alegreya"
-        android:text="*Developed as a part of hackathon&quot;"
+        android:text="*Developed by Team PCSE25-31&quot;"
         android:textColor="@color/black"
         android:textSize="19dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView6" />
+        app:layout_constraintTop_toBottomOf="@+id/textView8" />
 </androidx.constraintlayout.widget.ConstraintLayout>

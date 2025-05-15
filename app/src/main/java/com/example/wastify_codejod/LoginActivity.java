@@ -89,7 +89,7 @@ public class LoginActivity extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if(task.isSuccessful()){
 
-                            Toast.makeText(LoginActivity.this, "Welcome to Wastify", Toast.LENGTH_SHORT).show();
+                            Toast.makeText(LoginActivity.this, "Welcome to Reecle", Toast.LENGTH_SHORT).show();
                             startActivity(new Intent(getApplicationContext(),welcomePage.class));
 
 

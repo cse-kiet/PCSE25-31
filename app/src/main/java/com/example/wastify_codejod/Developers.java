@@ -25,7 +25,7 @@ public class Developers extends AppCompatActivity {
         }
     }
     public void utsav(View v){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/kaniskjai"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/kaniskjai/"));
         startActivity(browserIntent);
     }
 
@@ -35,7 +35,12 @@ public class Developers extends AppCompatActivity {
     }
 
     public void vivek(View v){
-        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/vivek-sakariya-65181320a/"));
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/khushi-sachdev-3b883421b/"));
+        startActivity(browserIntent);
+    }
+
+    public void manvi(View v){
+        Intent browserIntent = new Intent(Intent.ACTION_VIEW, Uri.parse("https://www.linkedin.com/in/manvijain24/"));
         startActivity(browserIntent);
     }
 }

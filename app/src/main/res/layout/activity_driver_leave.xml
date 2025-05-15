@@ -13,7 +13,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="52dp"
         android:fontFamily="@font/alegreya"
-        android:text="Wastify"
+        android:text="Reecle"
         android:textColor="#c62828"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
