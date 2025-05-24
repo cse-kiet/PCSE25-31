@@ -1,7 +1,7 @@
 # Title of Project: REECLE:To Develop Revolutionizing waste management system by using Sustainiable Practices
 
 ## Team Members:
--PCSE25-31 
+ -PCSE25-31 
 1. Khushi Sachdev (2100290100087, Section-B)
 2. Kanisk Jaiswal (2100290100081,Section-B)
 3. Manvi Jain (2100290100093,Section-B)
