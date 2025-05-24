@@ -10,7 +10,7 @@
 
 Step 1. **Clone this repository to your local machine**  
 
-- git clone 
+- git clone https://github.com/cse-kiet/PCSE25-31.git
 
 
 Step 2. **Android App Execution** 
@@ -21,7 +21,7 @@ Step 2. **Android App Execution**
 
 3. **Machine Learning Model Execution**  
 
-- Navigate to the folder containing `WasteRouteOptimization.ipynb`  
+- Navigate to the folder containing `ACO_Intrusion_Detection_NSL_KDD (1).ipynb`  
 - Open the notebook using **Jupyter Notebook**  
 - Run all cells to execute the waste route optimization logic
 
@@ -41,8 +41,6 @@ https://drive.google.com/drive/folders/1KAqjzkVrIM-5ixg4CFezaDXJMllB7gbN?usp=dri
 
 
 ## Checklist:
-1. Final Project Report
 2. Certificate VII Semester (Dated: December 2024).
 3. Certificate VIII Semester (Dated: May 2025).
 5. Final Presentation
-6. Source Code
