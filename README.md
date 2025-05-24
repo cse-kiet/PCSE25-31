@@ -1,6 +1,7 @@
 # Title of Project: REECLE:To Develop Revolutionizing waste management system by using Sustainiable Practices
 
 ## Team Members:
+-PCSE25-31 
 1. Khushi Sachdev (2100290100087, Section-B)
 2. Kanisk Jaiswal (2100290100081,Section-B)
 3. Manvi Jain (2100290100093,Section-B)
@@ -39,6 +40,9 @@ https://drive.google.com/drive/folders/1KAqjzkVrIM-5ixg4CFezaDXJMllB7gbN?usp=dri
 
 # Final Presentation :
 
+Explore the detailed insights and findings of our research through the presentation shared. Access the presentation using the link below
+
+https://docs.google.com/presentation/d/1TK8oodconpzSSshi07Ux-2NC/FaU/edit?usp=sharing&ould-101651146582630464937&rtpof=true&sd=true
 
 ## Checklist:
 2. Certificate VII Semester (Dated: December 2024).
