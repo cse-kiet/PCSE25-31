@@ -44,7 +44,3 @@ Explore the detailed insights and findings of our research through the presentat
 
 https://docs.google.com/presentation/d/1TK8oodconpzSSshi07Ux-2NC/FaU/edit?usp=sharing&ould-101651146582630464937&rtpof=true&sd=true
 
-## Checklist:
-2. Certificate VII Semester (Dated: December 2024).
-3. Certificate VIII Semester (Dated: May 2025).
-5. Final Presentation
